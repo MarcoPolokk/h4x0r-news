@@ -6,6 +6,7 @@ App that shows topics and its upvotes from algolia API, also allows to read them
 -Observer Design Pattern<br/>
 -SwiftUI<br/>
 -Combine<br/>
+-WebKit<br/>
 -Git<br/>
 
 **Screenshots:**<br/>
